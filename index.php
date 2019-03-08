@@ -142,13 +142,13 @@
 <script src="https://unpkg.com/bootstrap-table@1.13.4/dist/bootstrap-table.min.js"></script>
 <script src="js/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
 <script src="js/extensions/export/bootstrap-table-export.js"></script>
-<script type="text/javascript" src="js/tableExport.jquery.plugin-master/libs/FileSaver/FileSaver.min.js"></script>
-<script type="text/javascript" src="js/tableExport.jquery.plugin-master/libs/js-xlsx/xlsx.core.min.js"></script>
-<script type="text/javascript" src="js/tableExport.jquery.plugin-master/libs/jsPDF/jspdf.min.js"></script>
-<script type="text/javascript" src="js/tableExport.jquery.plugin-master/libs/jsPDF-AutoTable/jspdf.plugin.autotable.js"></script>
-<script type="text/javascript" src="js/tableExport.jquery.plugin-master/libs/es6-promise/es6-promise.auto.min.js"></script>
-<script type="text/javascript" src="js/tableExport.jquery.plugin-master/libs/html2canvas/html2canvas.min.js"></script>
-<script type="text/javascript" src="js/tableExport.jquery.plugin-master/tableExport.min.js"></script>
+<script type="text/javascript" src="js/tableExport/libs/FileSaver/FileSaver.min.js"></script>
+<script type="text/javascript" src="js/tableExport/libs/js-xlsx/xlsx.core.min.js"></script>
+<script type="text/javascript" src="js/tableExport/libs/jsPDF/jspdf.min.js"></script>
+<script type="text/javascript" src="js/tableExport/libs/jsPDF-AutoTable/jspdf.plugin.autotable.js"></script>
+<script type="text/javascript" src="js/tableExport/libs/es6-promise/es6-promise.auto.min.js"></script>
+<script type="text/javascript" src="js/tableExport/libs/html2canvas/html2canvas.min.js"></script>
+<script type="text/javascript" src="js/tableExport/tableExport.min.js"></script>
 
 </script>
 </body>

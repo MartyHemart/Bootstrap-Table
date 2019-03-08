@@ -1,6 +1,6 @@
 ## Bootstrap table <br>
 
-Vous souhaitez exporter vos données d'un tableau ? Effectuer une recherche précise ? Avoir un système de pagination simple ? Tester notre application <br>
+Vous souhaitez exporter vos données d'un tableau ? Effectuer une recherche précise ? Avoir un système de pagination simple ? <br>
 
 Pour tester l'application rdv ici : <br>
 http://martyhemart.fr/demo/Bootstrap-Table/ <br>
